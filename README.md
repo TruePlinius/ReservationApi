@@ -10,7 +10,7 @@ I am trying to maximize my time on the business logic
 - Needs separation of contracts
 - possible Thread issues and multiple requests, needs request id
 - unit tests is only focused on business logic (TDD)
-- needs exception handling
+- needs exception handling and return codes
 
 Providers
 
