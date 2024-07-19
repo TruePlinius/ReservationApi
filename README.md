@@ -26,6 +26,7 @@ Clients
 - need a separate time slots object from calender entry objects
 - doesnt account for duplicates
 
+If you want to unit test there is that 24 hours advance scheduling validation that you might want to comment out. I had no time to write proper unit tests to account for that.
 
 
 
