@@ -1,6 +1,6 @@
-Design in only concept
+This is only functional concept and missing many aspects
 
-I am trying to maximize my time in the business logic
+I am trying to maximize my time on the business logic
 
 - Needs authentication and authorisation
 - Needs async
@@ -19,16 +19,15 @@ Providers
 - assumption here is that an hour has 4 slots and they start at 0 min
 - we only accept full hour start and end
 - remove duplicates
+- use of strings in url as provider indicator is bad and will fail for some names. Need ids instead.
 
 Clients
 
-- need to separate time slots from calender entry objects
+- need a separate time slots object from calender entry objects
 - doesnt account for duplicates
 
 
-General
 
-- need UTC only for storage
 
 
 
