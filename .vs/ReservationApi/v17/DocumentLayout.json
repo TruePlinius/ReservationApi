@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Karsten\\Projects\\ReservationApi\\",
+  "WorkspaceRootPath": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\repository\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|solutionrelative:repository\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\reservationapi\\reservationapi\\repository\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|solutionrelative:reservationapi\\repository\\schedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\repository\\ischedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|solutionrelative:repository\\ischedulerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\reservationapi\\reservationapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|solutionrelative:reservationapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\controllers\\appointmentschedulercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|solutionrelative:controllers\\appointmentschedulercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\reservationapi\\reservationapi\\business\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|solutionrelative:reservationapi\\business\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\business\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|solutionrelative:business\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\reservationapi\\reservationapi\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationAPI\\ReservationApi.csproj|solutionrelative:reservationapi\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|c:\\karsten\\projects\\reservationapi\\business\\ischeduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6887F0C-0CC6-4146-A32C-159A2BA43EB3}|ReservationApi.csproj|solutionrelative:business\\ischeduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4D6AD29-46B5-4138-B4F2-1A5AE7F13880}|ReservationAPIUnitTests\\ReservationAPIUnitTests.csproj|c:\\karsten\\projects\\reservationapi\\reservationapi\\reservationapiunittests\\providersunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D6AD29-46B5-4138-B4F2-1A5AE7F13880}|ReservationAPIUnitTests\\ReservationAPIUnitTests.csproj|solutionrelative:reservationapiunittests\\providersunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D6AD29-46B5-4138-B4F2-1A5AE7F13880}|ReservationAPIUnitTests\\ReservationAPIUnitTests.csproj|c:\\karsten\\projects\\reservationapi\\reservationapi\\reservationapiunittests\\clientsunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D6AD29-46B5-4138-B4F2-1A5AE7F13880}|ReservationAPIUnitTests\\ReservationAPIUnitTests.csproj|solutionrelative:reservationapiunittests\\clientsunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Controllers\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "ReservationApi\\Controllers\\ProvidersController.cs",
+              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Controllers\\ProvidersController.cs",
+              "RelativeToolTip": "ReservationApi\\Controllers\\ProvidersController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:58:29.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProvidersUnitTest.cs",
+              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationAPIUnitTests\\ProvidersUnitTest.cs",
+              "RelativeDocumentMoniker": "ReservationAPIUnitTests\\ProvidersUnitTest.cs",
+              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationAPIUnitTests\\ProvidersUnitTest.cs",
+              "RelativeToolTip": "ReservationAPIUnitTests\\ProvidersUnitTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:51:29.725Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SchedulerRepository.cs",
-              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\Repository\\SchedulerRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\SchedulerRepository.cs",
-              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\Repository\\SchedulerRepository.cs",
-              "RelativeToolTip": "Repository\\SchedulerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Repository\\SchedulerRepository.cs",
+              "RelativeDocumentMoniker": "ReservationApi\\Repository\\SchedulerRepository.cs",
+              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Repository\\SchedulerRepository.cs",
+              "RelativeToolTip": "ReservationApi\\Repository\\SchedulerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:10:09.828Z",
+              "WhenOpened": "2024-07-19T19:01:53.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ISchedulerRepository.cs",
-              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\Repository\\ISchedulerRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ISchedulerRepository.cs",
-              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\Repository\\ISchedulerRepository.cs",
-              "RelativeToolTip": "Repository\\ISchedulerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ReservationApi\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ReservationApi\\Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:10:01.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T18:58:34.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppointmentSchedulerController.cs",
-              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\Controllers\\AppointmentSchedulerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AppointmentSchedulerController.cs",
-              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\Controllers\\AppointmentSchedulerController.cs",
-              "RelativeToolTip": "Controllers\\AppointmentSchedulerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:09:40.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Scheduler.cs",
-              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\Business\\Scheduler.cs",
-              "RelativeDocumentMoniker": "Business\\Scheduler.cs",
-              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\Business\\Scheduler.cs",
-              "RelativeToolTip": "Business\\Scheduler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Business\\Scheduler.cs",
+              "RelativeDocumentMoniker": "ReservationApi\\Business\\Scheduler.cs",
+              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationApi\\Business\\Scheduler.cs",
+              "RelativeToolTip": "ReservationApi\\Business\\Scheduler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:09:31.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T18:51:37.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IScheduler.cs",
-              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\Business\\IScheduler.cs",
-              "RelativeDocumentMoniker": "Business\\IScheduler.cs",
-              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\Business\\IScheduler.cs",
-              "RelativeToolTip": "Business\\IScheduler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "DocumentIndex": 5,
+              "Title": "ClientsUnitTest.cs",
+              "DocumentMoniker": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationAPIUnitTests\\ClientsUnitTest.cs",
+              "RelativeDocumentMoniker": "ReservationAPIUnitTests\\ClientsUnitTest.cs",
+              "ToolTip": "C:\\Karsten\\Projects\\ReservationApi\\ReservationApi\\ReservationAPIUnitTests\\ClientsUnitTest.cs",
+              "RelativeToolTip": "ReservationAPIUnitTests\\ClientsUnitTest.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswGoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:09:11.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T18:43:44.298Z"
             }
           ]
         }
